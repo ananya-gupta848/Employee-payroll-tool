@@ -47,4 +47,4 @@ OUTPUT IMAGES-
 ![img alt](https://github.com/ananya-gupta848/Employee-payroll-tool/blob/main/Screenshot%202026-06-13%20115916.png?raw=true)
 ![img alt](https://github.com/ananya-gupta848/Employee-payroll-tool/blob/main/Screenshot%202026-06-13%20115931.png?raw=true)
 ![img alt](https://github.com/ananya-gupta848/Employee-payroll-tool/blob/main/Screenshot%202026-06-13%20120004.png?raw=true)
-![img alt]()
+![img alt](https://github.com/ananya-gupta848/Employee-payroll-tool/blob/main/Screenshot%202026-06-13%20120014.png?raw=true)
