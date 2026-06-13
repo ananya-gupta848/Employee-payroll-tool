@@ -44,4 +44,5 @@ g++ employee.cpp -o payroll
 OUTPUT IMAGES-
 
 ![img alt](https://github.com/ananya-gupta848/Employee-payroll-tool/blob/main/Screenshot%202026-06-13%20115902.png?raw=true)
+![img alt](https://github.com/ananya-gupta848/Employee-payroll-tool/blob/main/Screenshot%202026-06-13%20115916.png?raw=true)
 ![img alt]()
