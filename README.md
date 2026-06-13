@@ -13,33 +13,33 @@ DOCUMENTATION:-
 
 🎯 Features-
 
-Add Employee Records – Input employee details such as ID, name, and salary components.
-Accurate Salary Calculation – Computes net salary using basic pay, HRA, DA, and tax deductions.
-Search Employee – Find employees quickly by their unique ID.
-Update Records – Modify salary details and recalculate payroll.
-Generate Payroll Report – Display all employee salary records in a structured format.
+Add Employee Records – Input employee details such as ID, name, and salary components.<br>
+Accurate Salary Calculation – Computes net salary using basic pay, HRA, DA, and tax deductions.<br>
+Search Employee – Find employees quickly by their unique ID.<br>
+Update Records – Modify salary details and recalculate payroll.<br>
+Generate Payroll Report – Display all employee salary records in a structured format.<br>
 
 🛠️ Technologies Used-
 
-Language: C++
-Concepts: Structures, Vectors, Functions, User Input/Output
+Language: C++<br>
+Concepts: Structures, Vectors, Functions, User Input/Output<br>
 Environment: GitHub for version control
 
-control
+
 
 🚀 How to Run-
 
-1.Clone the repository:
-git clone https://github.com/ananya-gupta848/Employee-payroll-tool.git
+1.Clone the repository:<br>
+git clone https://github.com/ananya-gupta848/Employee-payroll-tool.git<br>
 
-2.Navigate to the project folder:
-cd Employee-payroll-tool
+2.Navigate to the project folder:<br>
+cd Employee-payroll-tool<br>
 
-3.Compile the program:
-g++ employee.cpp -o payroll
+3.Compile the program:<br>
+g++ employee.cpp -o payroll<br>
 
-4.Run the executable:
-./payroll
+4.Run the executable:<br>
+./payroll<br>
 
 OUTPUT IMAGES-
 
